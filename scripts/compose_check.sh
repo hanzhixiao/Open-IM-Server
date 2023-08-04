@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 SCRIPTS_ROOT=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
 OPENIM_ROOT=$(dirname "${BASH_SOURCE[0]}")/..
 
